@@ -17,6 +17,7 @@ function startTimer(duration, display) {
         }
     }, 1000);
 
+
 }
 
 window.onload = function() {
